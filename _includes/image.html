@@ -1,0 +1,31 @@
+<!-- _includes/image.html -->
+<div class="image-wrapper" >
+    {% if include.url %}
+    <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
+    {% endif %}
+        <img src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}"/>
+    {% if include.url %}
+    </a>
+    {% endif %}
+    {% if include.caption %}
+        <p class="image-caption">{{ include.caption }}</p>
+    {% endif %}
+</div>
+
+<!--
+Inserting images with caption in Jekyll posts
+So, now that we have this include file and corresponding style defined in our CSS, here is how you can include an image with caption in your posts.
+{% include image.html
+            img="images/myimage.jpg"
+            title="title for image"
+            caption="caption for image" %}
+
+
+Images with caption & linked to URL too
+To link the image to a URL, simply specify the url parameter for the include file as shown below.
+{% include image.html
+            img="images/myimage.jpg"
+            title="title for image"
+            caption="caption for image"
+            url="http://example.com" %}
+-->
