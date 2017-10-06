@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I’m a Software Engineer living in Ankara, Turkey. I am interested in data compression, machine learning, sci-fi, japanese culture and illustration. I will be simply letting my hair down and sharing what I like and how I feel.
 
-### More Information
+Hope you have a whale of a time!  ^ __ ^
 
-A place to include any other types of information that you'd like to include about yourself.
+<!-- ### More Information
+
+A place to include any other types of information that you'd like to include about yourself. -->
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ttaylan.dogann@gmail.com](mailto:ttaylan.dogann@gmail.com)
