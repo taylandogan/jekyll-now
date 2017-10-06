@@ -23,7 +23,6 @@ The other day I was trying to load 700k records from a database using a tool cal
 <!-- *“It’s not about the time, it is about the effort!”* -->
 </div>
 <br><br>
-
 **PM:** *“Sooo.. what have we done concerning this task?”*
 
 **Me:** *“Well..erm.. I am done with loading the records, I have managed to fix that bug bla bla. But we can’t insert/delete/search yet. But the rest should be easier as I kinda understood how datatables works.”*

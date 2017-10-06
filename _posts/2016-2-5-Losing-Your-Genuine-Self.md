@@ -15,7 +15,6 @@ On the first day of my job, **Aug 5th 2014** to be exact, which also happens to 
 ![ughh]({{ site.baseurl }}/images/feelings.gif)
 <!-- Me tbh* -->
 </div>
-<br><br>
 
 Sooo.. this idea struck me recently. I truly feel like **I’m losing my genuine self** and it feels **awful**. :( Yesterday I caught myself behaving unnecessarily impatient and aggressive about some issue.. I immediately tried to rollback to *“real me”*, but this whole thing got me **perplexed**.
 

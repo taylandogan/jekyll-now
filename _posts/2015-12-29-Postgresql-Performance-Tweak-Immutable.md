@@ -24,7 +24,6 @@ Yes, IMHO stable is utterly error-prone and you need to consult to the documenta
 <!-- *The moment of discovery of immutable* -->
 </div>
 <br><br>
-
 So, I’d like to draw your attention to immutable functions before this post gets too long.  When declaring a function, using the immutable keyword actually implies the following:
 
 + I solemnly swear that my function **does not modify** the db.
