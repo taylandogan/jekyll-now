@@ -16,14 +16,11 @@ The other day I was trying to load 700k records from a database using a tool cal
 
 \**Meanwhile, we put cute little dots on post-its..*\*
 
-<p align="center">
-    <figure>
-        <img src="images/ughh.jpg"/>
-        <figcaption>
-        *“It’s not about the time, it is about the effort!”*
-        </figcaption>
-    </figure>
-</p>
+<div style="text-align:center" markdown="1">
+
+![ughh]({{ site.baseurl }}/images/ughh.jpg "*“It’s not about the time, it is about the effort!”*")
+
+</div>
 
 **PM:** *“Sooo.. what have we done concerning this task?”*
 
