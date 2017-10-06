@@ -16,6 +16,15 @@ The other day I was trying to load 700k records from a database using a tool cal
 
 \**Meanwhile, we put cute little dots on post-its..*\*
 
+<p align="center">
+<figure>
+    <img src="images/ughh.jpg"/>
+    <figcaption>
+    *“It’s not about the time, it is about the effort!”*
+    </figcaption>
+    </figure>
+</p>
+
 {% include image.html
             img="images/ughh.jpg"
             title="title for image"
