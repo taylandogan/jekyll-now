@@ -16,7 +16,11 @@ The other day I was trying to load 700k records from a database using a tool cal
 
 \**Meanwhile, we put cute little dots on post-its..*\*
 
-![*“It’s not about the time, it is about the effort!”*]({{ site.baseurl }}/images/ughh.jpg)
+<div style="text-align:center">
+    <img src ="({{ site.baseurl }}/images/ughh.jpg)" />
+    *“It’s not about the time, it is about the effort!”*
+</div>
+<!-- ![*“It’s not about the time, it is about the effort!”*]({{ site.baseurl }}/images/ughh.jpg) -->
 
 **PM:** *“Sooo.. what have we done concerning this task?”*
 
