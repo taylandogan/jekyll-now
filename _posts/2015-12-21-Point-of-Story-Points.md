@@ -10,18 +10,20 @@ Sooooo, it's been like a year and a half since I have started working in a profe
 **"It's not about the time, it is about the effort!"** Yeah, I have been warned about this many times already. And as team members, we do not necessarily have to agree on the effort of a story either.
 
 The other day I was trying to load 700k records from a database using a tool called datatables and ajax server-side processing. For the record, I am eager to learn new technologies but my learning curve is kinda pathetic. I am just a junior and I have been hired as a C++ developer. Whatever, I took the task with the hopes of learning something new..
+<br><br>
 
 \**3 days later*\*
 
 \**Meanwhile, we put cute little dots on post-its..*\*
 
-![*“It’s not about the time, it is about the effort!”*]({{ site.baseurl }}/images/ughh.png)
+![*“It’s not about the time, it is about the effort!”*]({{ site.baseurl }}/images/ughh.jpg)
 
 **PM:** *“Sooo.. what have we done concerning this task?”*
 
 **Me:** *“Well..erm.. I am done with loading the records, I have managed to fix that bug bla bla. But we can’t insert/delete/search yet. But the rest should be easier as I kinda understood how datatables works.”*
 
 **PM:** *“\*not pleased\* hmm.. ok, but we need to finish and deploy it asap. **It is a 5-point task**, can you add insertion/deletion mechanisms today?”….*
+<br><br>
 
 Then he begins to creep on my screen every now and then..
 
