@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Point of Story Points
+tags: programming agile
 ---
 
 \***Reader:** ughh the obligatory 'I hate agile, it is useless' post again..\*
@@ -18,9 +19,10 @@ The other day I was trying to load 700k records from a database using a tool cal
 
 <div style="text-align:center" markdown="1">
 
-![ughh]({{ site.baseurl }}/images/ughh.jpg "*“It’s not about the time, it is about the effort!”*")
-
+![ughh]({{ site.baseurl }}/images/ughh.jpg)
+*“It’s not about the time, it is about the effort!”*
 </div>
+<br></br>
 
 **PM:** *“Sooo.. what have we done concerning this task?”*
 
