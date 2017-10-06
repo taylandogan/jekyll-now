@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Taylan Dogan
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Software Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars2.githubusercontent.com/u/8392648?v=4&s=400&u=1e7dc160a1d6439c911d9157e72cd05c8b2a0edf
 
 #
 # Flags below are optional
@@ -18,12 +18,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: ttaylan.dogann@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: taylandogan
   instagram:
-  linkedin:
+  linkedin: taylandogan
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
