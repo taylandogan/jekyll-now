@@ -15,15 +15,13 @@ In PostgreSQL, every function has one of the possible volatility classifications
 **Stable:** smth in between. (wow, such explanation, very clear *applause*)
 
 Yes, IMHO stable is utterly error-prone and you need to consult to the documentation. Sorry that TL;DR was inadequate :( ..(but.. it is supposed to be inadequate by definition right?? whatever..)
-<br><br>
-
 
 <div style="text-align:center" markdown="1">
 
 ![ughh]({{ site.baseurl }}/images/jake_amazed.gif)
 <!-- *The moment of discovery of immutable* -->
 </div>
-<br><br>
+
 So, I’d like to draw your attention to immutable functions before this post gets too long.  When declaring a function, using the immutable keyword actually implies the following:
 
 + I solemnly swear that my function **does not modify** the db.
