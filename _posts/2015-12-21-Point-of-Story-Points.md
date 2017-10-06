@@ -22,7 +22,7 @@ The other day I was trying to load 700k records from a database using a tool cal
 ![ughh]({{ site.baseurl }}/images/ughh.jpg)
 <!-- *“It’s not about the time, it is about the effort!”* -->
 </div>
-<br></br>
+<br><br>
 
 **PM:** *“Sooo.. what have we done concerning this task?”*
 
