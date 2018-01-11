@@ -26,4 +26,4 @@ It's been 11 days. **11/365 is already gone**, and what have I done?! not much..
 
 
 "Happy fucking new year."
-    *“-Wolfgang (Sense8)”*
+    *-Wolfgang (Sense8)*
