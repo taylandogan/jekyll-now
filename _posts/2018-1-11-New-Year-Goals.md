@@ -25,5 +25,5 @@ It's been 11 days. **11/365 is already gone**, and what have I done?! not much..
 + Do at least 4 DIY projects.
 
 
-"Happy f*cking new year."
+"Happy fucking new year."
     *“-Wolfgang (Sense8)”*
