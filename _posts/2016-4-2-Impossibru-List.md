@@ -49,17 +49,20 @@ Here is mine:
 + See the Northern Lights
 + E3
 + VidCon
++ Big Freedia concert
 
 **Habit Goals:**
 
-+ Meditate 10 mins every other day for 6 months
-+ Workout 3+ days/week for 6 months
++ Meditate 10 mins every other day for 3 months
++ Workout 3+ days/week for 3 months
 + Draw something everyday for a month
 
 **Creative Goals:**
 
 + Draw something I’d be proud to sell on RedBubble
 + Do 10 DIY projects
++ Shoot a short film
++ Prepare an art installation
 
 **Skill Goals:**
 
