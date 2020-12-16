@@ -6,7 +6,7 @@ tags: personal
 
 <div style="text-align:center" markdown="1">
 
-![ughh]({{ site.baseurl }}/images/impossibru.jpg)
+![ughh]({{ site.baseurl }}/images/gifs/impossibru.jpg)
 </div>
 
 As [Joel Runyon](http://impossiblehq.com/impossible-list/) states in his blog, the impossible list is more like a collection of challenges rather than a bucket list, and it should contain the things you never thought that you’d be able to do. It is completely fine if you wanna reevaluate and alter your list later.

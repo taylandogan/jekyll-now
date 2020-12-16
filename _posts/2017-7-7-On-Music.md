@@ -8,7 +8,7 @@ Recently, a favorite band of mine named **“Blaue Blume”** have released thei
 
 <div style="text-align:center" markdown="1">
 
-![ughh]({{ site.baseurl }}/images/eargasm_0.gif)
+![ughh]({{ site.baseurl }}/images/gifs/eargasm_0.gif)
 <!-- Eargasm -->
 </div>
 
@@ -16,7 +16,7 @@ The thing is, they made me appreciate music a lot more. Also, isn’t it weird t
 
 <div style="text-align:center" markdown="1">
 
-![ughh]({{ site.baseurl }}/images/mindblown_0.gif)
+![ughh]({{ site.baseurl }}/images/gifs/mindblown_0.gif)
 <!-- Some songs make our neurons fire and some do not. -->
 </div>
 

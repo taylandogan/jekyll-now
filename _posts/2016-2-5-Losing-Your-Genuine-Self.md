@@ -12,7 +12,7 @@ On the first day of my job, **Aug 5th 2014** to be exact, which also happens to 
 
 <div style="text-align:center" markdown="1">
 
-![ughh]({{ site.baseurl }}/images/feelings.gif)
+![ughh]({{ site.baseurl }}/images/gifs/feelings.gif)
 <!-- Me tbh* -->
 </div>
 

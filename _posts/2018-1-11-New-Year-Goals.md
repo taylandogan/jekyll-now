@@ -9,7 +9,7 @@ It's been 11 days. **11/365 is already gone**, and what have I done?! not much..
 
 <div style="text-align:center" markdown="1">
 
-![ughh]({{ site.baseurl }}/images/new_year_res.gif)
+![ughh]({{ site.baseurl }}/images/gifs/new_year_res.gif)
 <!-- THE TRUTH ABOUT RESOLUTIONS -->
 </div>
 

@@ -18,7 +18,7 @@ The other day I was trying to load 700k records from a database using a tool cal
 
 <div style="text-align:center" markdown="1">
 
-![ughh]({{ site.baseurl }}/images/ughh.jpg)
+![ughh]({{ site.baseurl }}/images/gifs/ughh.jpg)
 <!-- *“It’s not about the time, it is about the effort!”* -->
 </div>
 
