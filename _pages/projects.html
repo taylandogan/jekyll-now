@@ -1,0 +1,19 @@
+---
+layout: default
+title: Projects
+permalink: /projects/
+---
+
+<div class="wrapper">
+    <section class="grid">
+        {% for project in site.data.projects %}
+        <article class="project-card">
+            <a href="{{ site.baseurl }}/projects/{{project.title}}">
+                <img class="project-card-img" src="{{project.image}}" alt="{{project.title}}">
+                <div class="project-card-info">{{project.title}}</div>
+            </a>
+            <!-- Add tech stack as bubbles -->
+        </article>
+        {% endfor %}
+    </section>
+</div>

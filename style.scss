@@ -240,6 +240,51 @@ nav {
 // .main
 //
 
+.grid {
+  width: 100%;
+  display: grid;
+  grid-gap: var(--margin-02);
+  grid-template-columns: repeat(auto-fill,minmax(150px,1fr));
+}
+
+.project-card {
+  border: 4px solid var(--border);
+}
+
+.project-card-img {
+  width: 100%;
+  filter: url(filters.svg#grayscale); /* Firefox 3.5+ */
+  filter: gray; /* IE5+ */
+  -webkit-filter: grayscale(1); /* Webkit Nightlies & Chrome Canary */
+  -webkit-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+  background: #fff;
+  min-height: 100px;
+  text-align: center;
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+}
+
+.project-card-img:hover {
+  filter: none;
+  -webkit-filter: grayscale(0);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.project-card-info {
+  margin: 0;
+  padding: var(--margin-01);
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
