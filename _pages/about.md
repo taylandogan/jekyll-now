@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I’m a Software Engineer living in Amsterdam, The Netherlands. I am interested in data compression, deep learning, sci-fi, drawing and board games. I will be simply letting my hair down and sharing what I like and how I feel.
+I’m a Software Engineer living in Amsterdam, The Netherlands. I am interested in data compression, deep learning, design, sci-fi, drawing and board games. I will be simply letting my hair down and sharing what I like and how I feel.
 
 Hope you have a whale of a time!  ^ __ ^
 
